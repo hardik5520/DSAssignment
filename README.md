@@ -19,3 +19,9 @@ Division-http://localhost:8100/div
 Modulus-http://localhost:8100/mod
 
 This is just a basic implimentation of distributed system using Java SpringBoot!
+
+The docker images can be accessed from https://hub.docker.com/u/hardik55
+Or just do "docker pull hardik55/dsc-dsassignment-service:0.0.1-SNAPSHOT"
+and "docker pull hardik55/dsc-dsassignment:0.0.1-SNAPSHOT"
+And then you may run the images downloaded locally.
+
