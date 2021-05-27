@@ -9,7 +9,7 @@ This is the end of first service that runs on port 8000
 (You may check the code in dsassignment)
 
 Then, we pass these values to 2nd service named- dsassignment-service
-So this service runs on port 8000 and communicates with the first service using feign,
+So this service runs on port 8100 and communicates with the first service using feign,
 The connection is established using feign, in ProxyServer.java class
 The basic calculator functiions can be checked here on the urls as follows-
 Addition-http://localhost:8100/add
